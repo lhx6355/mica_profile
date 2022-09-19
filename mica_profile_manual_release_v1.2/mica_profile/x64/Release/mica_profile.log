@@ -1,0 +1,23 @@
+﻿  branch_behavior.cpp
+  calc_critical_path.cpp
+  data_locality.cpp
+  decode_aarch32.cpp
+E:\VS2022\projects\mica_profile_manual\mica_profile\decode_inst_set.h(86,8): warning C4805: “|”: 在操作中将类型“bool”与类型“uint32_t”混合不安全
+E:\VS2022\projects\mica_profile_manual\mica_profile\decode_aarch32.cpp(552,28): warning C4145: “&&”: 关系表达式用作 switch 表达式；可能和“&”混淆
+E:\VS2022\projects\mica_profile_manual\mica_profile\decode_aarch32.cpp(1321,22): warning C4145: “&&”: 关系表达式用作 switch 表达式；可能和“&”混淆
+E:\VS2022\projects\mica_profile_manual\mica_profile\decode_aarch32.cpp(2080,23): warning C4145: “&&”: 关系表达式用作 switch 表达式；可能和“&”混淆
+E:\VS2022\projects\mica_profile_manual\mica_profile\decode_aarch32.cpp(2070,6): warning C4809: 切换语句有多余的“default”标签；给定所有可能的“case”标签
+E:\VS2022\projects\mica_profile_manual\mica_profile\decode_aarch32.cpp(2077,5): warning C4809: 切换语句有多余的“default”标签；给定所有可能的“case”标签
+E:\VS2022\projects\mica_profile_manual\mica_profile\decode_aarch32.cpp(2521,6): warning C4809: 切换语句有多余的“default”标签；给定所有可能的“case”标签
+  decode_aarch64.cpp
+E:\VS2022\projects\mica_profile_manual\mica_profile\decode_inst_set.h(86,8): warning C4805: “|”: 在操作中将类型“bool”与类型“uint32_t”混合不安全
+  inst_locality.cpp
+  inst_mix_ratio.cpp
+E:\VS2022\projects\mica_profile_manual\mica_profile\decode_inst_set.h(86,8): warning C4805: “|”: 在操作中将类型“bool”与类型“uint32_t”混合不安全
+  main.cpp
+  reg_depend_length.cpp
+  serial_inst_dist.cpp
+  statistic_trace.cpp
+  uint64_minus.cpp
+  正在生成代码...
+  mica_profile.vcxproj -> E:\VS2022\projects\mica_profile_manual\mica_profile\x64\Release\mica_profile.exe
